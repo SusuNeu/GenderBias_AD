@@ -65,7 +65,7 @@ Debiasing improved balanced accuracy (+4.2pp) and brought disparate impact close
 ## Files
 
 | File | Description |
-|---|---|---|
+|---|---|
 | `GenderBias_AD.ipynb` | Main analysis (executed, `.venv` kernel) |
 | `GenderBias_AD_clean.ipynb` | Cleaned main notebook with markdown headers, inline comments, appendix |
 | `GenderBias_AD_sigBias.ipynb` | Secondary 10-fold CV analysis (not executed) |
